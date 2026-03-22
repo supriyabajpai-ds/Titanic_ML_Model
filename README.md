@@ -20,7 +20,7 @@ This project demonstrates the implementation of a Machine Learning model using P
 
 ## 📁 Project Structure
 
-* `MYMODEL11.ipynb` → Jupyter Notebook containing full implementation
+* `MYMODEL1.ipynb` → Jupyter Notebook containing full implementation
 
 ## 📌 Objective
 
